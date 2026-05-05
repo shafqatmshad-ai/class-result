@@ -1,38 +1,68 @@
-# class-result
 # 🎓 Class Result Management System
 
-A simple web-based **Class Result System** for displaying student results online.  
-This project is designed for schools/colleges to publish exam results in a clean and easy way.
-
----
-
-## 🌐 Live Demo
-👉 https://your-username.github.io/your-repo-name/
-
----
-
-## 📌 Features
-- 📊 Student result display system  
-- 🧾 Roll number / CNIC search (if added)  
-- 📱 Responsive design (mobile + desktop)  
-- 🖨️ Print-friendly result page  
-- ⚡ Fast and lightweight
-
----
-
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript (if used)  
-- GitHub Pages (for hosting)
+A simple web-based system to display class results online.
 
 ---
 
 ## 📂 Project Structure
 
+```
+class-result-repo/
+│
+├── index.html          # Main result page
+├── style.css           # Styling file
+├── script.js           # JavaScript (search / logic)
+│
+├── images/             # Logo & images
+│   └── logo.png
+│
+├── docs/               # Result PDFs
+│   └── result-2026.pdf
+│
+└── README.md           # Project documentation
+```
+
 ---
 
 ## 🚀 How to Use
-1. Clone this repository  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+
+1. Open `index.html` in browser
+2. Or upload to GitHub Pages
+
+---
+
+## 🌐 Live Demo
+
+👉 https://your-username.github.io/your-repo-name/
+
+---
+
+## 📌 Features
+
+* Student result display
+* PDF gazette download
+* Clean UI
+* Easy to use
+
+---
+
+## 🛠️ Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🏫 Use Case
+
+Perfect for:
+
+* School result system
+* College result display
+* Practice project
+
+---
+
+⭐ Star this repo if you like it!
+
