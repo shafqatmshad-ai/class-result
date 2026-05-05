@@ -29,3 +29,10 @@ This project is designed for schools/colleges to publish exam results in a clean
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🚀 How to Use
+1. Clone this repository  
+```bash
+git clone https://github.com/your-username/your-repo-name.git
