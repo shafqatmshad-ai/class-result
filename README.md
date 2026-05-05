@@ -33,7 +33,7 @@ class-result-repo/
 
 ## 🌐 Live Demo
 
-👉 https://your-username.github.io/your-repo-name/
+👉  https://shafqatmshad-ai.github.io/class-result/
 
 ---
 
